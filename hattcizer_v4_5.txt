@@ -1,0 +1,157 @@
+﻿hattcizer_v4.5
+
+
+""" – hatticizer-v45/
+python
+========================================================================================
+         HATTICIZER PROTOCOL v4.5 : MAIN SYSTEM REDISTRIBUTION ENGINE
+========================================================================================
+Core Paradigm: Context-Free, Agglutinative Structural Matrix Shifting Pre-Greek 
+               Aegean Topology from Mythic Nouns to Hard-Coded State Assets.
+System Status: PRODUCTION STABLE // PEER-REVIEW COMPLIANT TAPE [Ariadne, 2026]
+========================================================================================
+"""
+import sys
+class HatticizerMainframeV45:
+    def __init__(self):
+        # --- Slot 0 (S0): Architectural Vectors & Directives ---
+        self.slot_0_directives = {
+            "U": {"visual": "𐘉", "desc": "Active Scepter Directive / Outbound Execution Command"},
+            "ZA": {"visual": "𐘴", "desc": "Frontier Threshold Cross-Border Boundary Gate"},
+            "ZO": {"visual": "𐘴", "desc": "Frontier Threshold Cross-Border Boundary Gate"},
+            "DA": {"visual": "𐘿", "desc": "Spatial Orientation Axis / Local Inbound Routing"},
+            "AN": {"visual": "𐘀𐘴", "desc": "Outbound Origin / Subterranean Asset Extraction"}
+        }
+        
+        # --- Slot 1 (S1): Locative, Collective, and Storage Metrics ---
+        self.slot_1_metrics = {
+            "A": {"visual": "𐘀", "desc": "Macro-Collective Intensive State Canopy Modifier"},
+            "AI": {"visual": "𐘀", "desc": "Macro-Collective Intensive State Canopy Modifier"},
+            "TE": {"visual": "𐘃", "desc": "State-Sanctioned Institutional Class Monopoly Flag"},
+            "TO": {"visual": "𐘳", "desc": "State-Sanctioned Spatial Anchoring Checkpoint"},
+            "TA": {"visual": "𐘳", "desc": "State-Sanctioned Spatial Anchoring Checkpoint"},
+            "SI": {"visual": "𐘈", "desc": "Vault-Lock / High-Security Subterranean Isolation Custody"},
+            "KO": {"visual": "𐘦", "desc": "Enclosure / Walled Citadel Perimeter / Bulk Storage Holding"},
+            "KU": {"visual": "𐘦", "desc": "Enclosure / Walled Citadel Perimeter / Bulk Storage Holding"},
+            "PU": {"visual": "𐘅", "desc": "Bulk Capacity / Volumetric Gathering Bay / Deep Storage"},
+            "PO": {"visual": "𐘅", "desc": "Bulk Capacity / Volumetric Gathering Bay / Deep Storage"},
+            "ME": {"visual": "𐘯", "desc": "Legal Metric Verification / Standard Currency Lock"}
+        }
+        # --- Slot 2 (S2): Deictic Focus & Domain Specifiers ---
+        self.slot_2_focus = {
+            "JA": {"visual": "𐘌", "desc": "Specific Deictic Focus Account Anchor / Relational Entry"},
+            "RA": {"visual": "𐘤", "desc": "Sovereign Palace Command Stamp"},
+            "RE": {"visual": "𐘕", "desc": "Sovereign Palace Decree"},
+            "RI": {"visual": "𐘚", "desc": "Fortified Cliff / Walled Repository Segment Focus"},
+            "KI": {"visual": "𐘚", "desc": "Fortified Cliff / Walled Repository Segment Focus"}
+        }
+        # --- Slot 5 (S5): The Master Morphosyntactic Enclitic Closers ---
+        self.enclitic_closers = {
+            "-JA": {"visual": "𐘌", "desc": "Passive Containment Desk / Corporate House Closer"},
+            "-NE": {"visual": "𐘗", "desc": "Passive Containment Desk / Check-Post Auditor Suffix"},
+            "-TA": {"visual": "𐘳", "desc": "Anetaki Scepter Update / Definitive Closed Ledger Suffix"},
+            "-ME": {"visual": "𐘯", "desc": "Sovereign Non-Negotiable Invariant Treasury Closer"},
+            "-TO": {"visual": "𐘃", "desc": "Physical Structural Building Compound Suffix"},
+            "-U":  {"visual": "𐘉", "desc": "Kinetic Ergative Motion / Outbound Task Force Execution Track"},
+            "-MA": {"visual": "𐘃", "desc": "Standard Metric Weight / Volumetric Scale Closer"}
+        }
+        # --- Commodity Bank Logograms & Volumetric Energetic Constants ---
+        self.commodity_bank = {
+            "grain": {"ideogram": "𐚡", "catalog": "AB120", "calories_per_unit": 360000}, # Bulk dry rations
+            "oil":   {"ideogram": "𐚣", "catalog": "AB122", "calories_per_unit": 820000}, # Liquid fluid bank
+            "wine":  {"ideogram": "𐚦", "catalog": "AB131", "calories_per_unit": 240000}, # Luxury ration unit
+            "cloth": {"ideogram": "𐘸", "catalog": "B159",  "calories_per_unit": 500000}  # Textile currency cloth
+        }
+    def evaluate_v2_6_double_tap(self, phonetic_sequence):
+        """ Processes Slot 3 for intense legal/metric reduplication (e.g. RE-RE, TA-TA) """
+        tokens = phonetic_sequence.upper().split("-")
+        for i in range(len(tokens) - 1):
+            if tokens[i] == tokens[i+1]:
+                return True, tokens[i]
+        return False, None
+    def execute_infrastructure_parse(self, profile_name, sequence_string, target_closer):
+        """ Emulates the 5-slot layout: processes agglutinative prefixing and anchors closers """
+        tokens = sequence_string.upper().split("-")
+        visual_chain = ""
+        diagnostic_log = []
+        
+        # Sequentially map Slots 0-2 (Left-to-Right String Agglutination)
+        for t in tokens:
+            if t in self.slot_0_directives:
+                visual_chain += self.slot_0_directives[t]["visual"]
+                diagnostic_log.append(f"[S0 Directive] Mapped prefix {t:<3} -> {self.slot_0_directives[t]['desc']}")
+            elif t in self.slot_1_metrics:
+                visual_chain += self.slot_1_metrics[t]["visual"]
+                diagnostic_log.append(f"[S1 Metric]    Mapped prefix {t:<3} -> {self.slot_1_metrics[t]['desc']}")
+            elif t in self.slot_2_focus:
+                visual_chain += self.slot_2_focus[t]["visual"]
+                diagnostic_log.append(f"[S2 Focus]     Mapped prefix {t:<3} -> {self.slot_2_focus[t]['desc']}")
+            else:
+                # Default placeholder for un-inflected prehistoric root elements
+                visual_chain += "[𐘝]"
+                diagnostic_log.append(f"[ROOT Core]    Processed un-inflected baseline token: {t}")
+        # Assess Slot 3 for metric reduplication verification
+        double_tap_detected, double_token = self.evaluate_v2_6_double_tap(sequence_string)
+        if double_tap_detected:
+            diagnostic_log.append(f"[S3 Reduplication] v2.6 DOUBLE-TAP RULE LOCKED on system token: {double_token}")
+        # Apply terminal Slot 5 Enclitic Closer
+        closer_profile = self.enclitic_closers.get(target_closer.upper(), {"visual": "[?]", "desc": "Unknown Closer"})
+        visual_chain += closer_profile["visual"]
+        diagnostic_log.append(f"[S5 Closer]    Matrix clamped shut via {target_closer} -> {closer_profile['desc']}")
+        # Determine structural division of labor via closer categorization
+        is_static = target_closer.upper() in ["-JA", "-NE", "-TA", "-TO", "-ME"]
+        labor_type = "STATIC CONTAINMENT (DESK ACCOUNTING)" if is_static else "KINETIC PROJECTION (MOBILE PIPELINE)"
+        return {
+            "profile": profile_name,
+            "visual_chain": visual_chain,
+            "double_tap": double_tap_detected,
+            "logs": diagnostic_log,
+            "division_of_labor": labor_type
+        }
+    def process_caloric_redistribution(self, parse_result, commodity_type, volume_units, mycenaean_genitive=False):
+        """ Calculates real-time volumetric balances and logs the authoritative data tape """
+        commodity = self.commodity_bank.get(commodity_type.lower(), {"ideogram": "[?]", "calories_per_unit": 0})
+        total_calories = commodity["calories_per_unit"] * volume_units
+        
+        # Convert raw volume integers into standard Minoan numeric tally markings (Tens and Ones)
+        tens = volume_units // 10
+        ones = volume_units % 10
+        tally_marks = ("𐚾" * tens) + ("𐚽" * ones) if volume_units > 0 else "𐚼"
+        
+        # Inject the intrusive Linear B Mycenaean genitive case override if requested
+        active_chain = parse_result["visual_chain"]
+        if mycenaean_genitive:
+            active_chain += "𐘏" # Injects the JO character (Sign B36) to break prefix tracking
+        
+        complete_stamp = f"{active_chain} ──► {commodity['ideogram']} ──► {tally_marks}"
+        print("=" * 96)
+        print(f"  HATTICIZER ENGINE v4.5 CORE COMPLIANCE FILE // ACCESS LOG: {parse_result['profile'].upper()}")
+        print("=" * 96)
+        print(f"  Authoritative Inscription : {complete_stamp}")
+        print(f"  System Labor Taxonomy     : {parse_result['division_of_labor']}")
+        print(f"  Volumetric Inbound Load   : {volume_units} Standard Units")
+        print(f"  Total Energetic Yield     : {total_calories:,} Systemic Calories Calibrated")
+        if mycenaean_genitive:
+            print("  CRITICAL HARDWARE FALLOUT : Mycenaean genitive corruption (-JO / 𐘏) active.")
+            print("                             Central database registers undergo forced military liquidation.")
+        print("-" * 96)
+        for line in parse_result["logs"]:
+            print(f"    🧬 {line}")
+        print("=" * 96 + "\n")
+# --- EXECUTING VERIFICATION COMPLIANCE SUITE ---
+if __name__ == "__main__":
+    mainframe = HatticizerMainframeV45()
+    print("\nStarting Hatticizer Protocol v4.5 Peer-Review Test Pipeline...\n")
+    # 📋 Test Node 1: Verify the central auditing desk profile (Ariadne)
+    ariadne_profile = mainframe.execute_infrastructure_parse(
+        profile_name="Ariadne (The Directorate of Ledger Verification)",
+        sequence_string="A-RI-JA-DA",
+        target_closer="-NE"
+    )
+    mainframe.process_caloric_redistribution(ariadne_profile, commodity_type="cloth", volume_units=34)
+    # ⚡ Test Node 2: Verify the immutable system data-backup registry (Tiresias)
+    tiresias_profile = mainframe.execute_infrastructure_parse(
+        profile_name="Tiresias (The Multi-Generational Archival Backup Terminal)",
+        sequence_string="TE-RE-SI-JA",
+        target_closer="-JA"
+    )
