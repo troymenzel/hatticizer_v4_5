@@ -72,11 +72,13 @@ Decouples day-to-day administrative data congestion from the main Knossos cluste
 
 \#\#   Execution & Parsing Simulation
 
-To initialize the version 4.5 runtime environment and process a raw substrate token stream through the infrastructure validation gates, run:
+To initialize the version 4.5 runtime environment and process a raw substrate token stream through the infrastructure validation gates,simply clone or download the file and execute it from your terminal or:
+run: 
 
 \`\`\`bash  
 python hatticizer\_v4\_5.py \--profile "Mavro\_Spilio\_Core" \--input "A-RE-NE-SI-DI-JE"  
 \`\`\`
+
 
 \#\#\# Script API Sample Usage:  
 \`\`\`python  
