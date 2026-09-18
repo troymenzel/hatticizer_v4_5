@@ -72,7 +72,7 @@ Decouples day-to-day administrative data congestion from the main Knossos cluste
 
 \#\#   Execution & Parsing Simulation
 
-To initialize the version 4.5 runtime environment and process a raw substrate token stream through the infrastructure validation gates, simply clone or download the file and execute it from your terminal or
+To initialize the version 4.5 runtime environment and process a raw substrate token stream through the infrastructure validation gates, simply clone or download the file and run, and parse, a string or toponym through an AI instance, or execute it from your terminal or
 run: 
 
 \`\`\`bash  
