@@ -7,7 +7,7 @@ context-free Linear A parser
 
 The **Hatticizer Protocol v4.5** is a specialized historical-linguistic computation engine designed to isolate, map, and compile the **non-Indo-European (non-IE) Aegean substrate** (including the Eteocretan, Linear A, and Anatolian Hattic layers). By throwing out a century of romanticized, Greco-Roman mythological assumptions, this framework re-aligns prehistoric toponyms, ritual formulas, and physical hardware descriptions into their original, hard-coded functions: **as deterministic state assets within a decentralized, zero-trust palatial redistributive network**.
 
-This framework achieves a \*\*100% reproducible execution modulus\*\*, validating the hypothesis that Bronze Age Aegean administrative components behave as strict, modular software tokens rather than fluid literary prose.
+This framework achieves a **100% reproducible execution modulus**, validating the hypothesis that Bronze Age Aegean administrative components behave as strict, modular software tokens rather than fluid literary prose.
 
 \---
 
