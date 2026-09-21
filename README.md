@@ -25,6 +25,7 @@ The core runtime evaluates text strings using a position-dependent, left-to-righ
 \*   **Slot 3 (S3) — The v2.6 "Double-Tap" Rule:** An automated checking daemon that catches adjacent, duplicate tokens (e.g., \`SI-DI\`, \`TA-TA\`), triggering an exponential property escalation modifier for maximum-security or overflow capacity states.
 
 \*   **Slot 4 (S4) - Root**
+
 \*   **Slot 5 (S5) — Enclitic Ledger Closers:** Clamps data blocks completely shut using validated word-boundary markers (e.g., \`-JA\`, \`-NE\`, \`-TA\`, \`-ME\`, \`-TO\`). 
 
 \*Note: The S5 \`-TA\` closer is fully optimized to comply with the long-form Linear A inscription discoveries published in the latest \*\*Ariadne 2025/2026 supplement series\*\* \[The Anetaki Plot Ivory Scepter\].\*
