@@ -17,12 +17,13 @@ The core runtime evaluates text strings using a position-dependent, left-to-righ
 
 \[ Slot 0: Directive \] ──► \[ Slot 1: Metric \] ──► \[ Slot 2: Focus \] ──► \[ Slot 3: Redup \] ──► \[ Slot 4: Root \]──► \[ Slot 5: Closer \]
 
-(S0) (S1) (S2) (S3) (S5)
+(S0) (S1) (S2) (S3) (S4) (S5)
 
 \*   **Slot 0 (S0) — Architectural Directives:** Maps outbound execution commands and border boundaries (e.g., \`U\`, \`ZA\`, \`DA\`).  
 \*   **Slot 1 (S1) — Storage & Scale Metrics:** Sets institutional flags, vault locks, and volumetric capacities (e.g., \`A\`, \`TE\`, \`TA\`, \`SI\`, \`KO\`, \`PU\`, \`ME\`).  
 \*   **Slot 2 (S2) — Domain Focus Specifiers:** Establishes sovereign palatial commands and localized regional stamps (e.g., \`JA\`, \`RA\`, \`RE\`, \`RI\`).  
 \*   **Slot 3 (S3) — The v2.6 "Double-Tap" Rule:** An automated checking daemon that catches adjacent, duplicate tokens (e.g., \`SI-DI\`, \`TA-TA\`), triggering an exponential property escalation modifier for maximum-security or overflow capacity states.
+
 \*   **Slot 4 (S4) - Root**
 \*   **Slot 5 (S5) — Enclitic Ledger Closers:** Clamps data blocks completely shut using validated word-boundary markers (e.g., \`-JA\`, \`-NE\`, \`-TA\`, \`-ME\`, \`-TO\`). 
 
