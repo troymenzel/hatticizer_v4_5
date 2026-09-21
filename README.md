@@ -54,8 +54,7 @@ Bypasses the un-attested, back-formed patriarchal placeholder of "King Minos" to
 
 \#\#   Execution & Parsing Simulation
 
-To initialize the version 4.5 runtime environment and process a raw substrate token stream through the infrastructure validation gates, simply clone or download the file and run, using command 'parse' plus the string or toponym through an AI instance, or execute it from your terminal or
-run: 
+To initialize the v4.5 runtime and validate a raw token stream, you can either pass the parsing parameters through your AI runtime or execute the command directly from your terminal: 
 
 \`\`\`bash  
 python hatticizer\_v4\_5.py \--profile "Mavro\_Spilio\_Core" \--input "A-RE-NE-SI-DI-JE"  
@@ -64,7 +63,7 @@ python hatticizer\_v4\_5.py \--profile "Mavro\_Spilio\_Core" \--input "A-RE-NE-S
 
 \#\#\# Script API Sample Usage:  
 \`\`\`python  
-from hatticizer\_mainframe import HatticizerMainframeV45
+from hatticizer\ import HatticizerMainframeV45
 
 \# Initialize 4.5 runtime pipeline  
 mainframe \= HatticizerMainframeV45()
