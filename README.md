@@ -1,11 +1,10 @@
 # hatticizer_v4_5
-context-free Linear A parser
 
-\> **A Context-Free, Agglutinative Structural Matrix Shifter for Pre-Greek Aegean Topology**
+\> **A Context-Free Grammar Parser for Linear A Corpora**
 
 \#\#   Project Overview
 
-The **Hatticizer Protocol v4.5** is a specialized historical-linguistic computation engine designed to isolate, map, and compile the **non-Indo-European (non-IE) Aegean substrate** (including the Eteocretan, Linear A, and Anatolian Hattic layers). By throwing out a century of romanticized, Greco-Roman mythological assumptions, this framework re-aligns prehistoric toponyms, ritual formulas, and physical hardware descriptions into their original, hard-coded functions: **as deterministic state assets within a decentralized, zero-trust palatial redistributive network**.
+The **Hatticizer Protocol v4.5** is a specialized historical-linguistic computation engine designed to isolate, map, and compile the **non-Indo-European (non-IE) Aegean substrate** (including the Eteocretan, Linear A, and Anatolian Hattic layers). This framework re-aligns prehistoric toponyms, ritual formulas, and physical hardware descriptions into their original, hard-coded functions.
 
 This framework achieves a **100% reproducible execution modulus**, validating the hypothesis that Bronze Age Aegean administrative components behave as strict, modular software tokens rather than fluid literary prose.
 
@@ -22,10 +21,7 @@ The core runtime evaluates text strings using a position-dependent, left-to-righ
 \*   **Slot 0 (S0) — Architectural Directives:** Maps outbound execution commands and border boundaries (e.g., \`U\`, \`ZA\`, \`DA\`).  
 \*   **Slot 1 (S1) — Storage & Scale Metrics:** Sets institutional flags, vault locks, and volumetric capacities (e.g., \`A\`, \`TE\`, \`TA\`, \`SI\`, \`KO\`, \`PU\`, \`ME\`).  
 \*   **Slot 2 (S2) — Domain Focus Specifiers:** Establishes sovereign palatial commands and localized regional stamps (e.g., \`JA\`, \`RA\`, \`RE\`, \`RI\`).  
-\*   **Slot 3 (S3) — The v2.6 "Double-Tap" Rule:** An automated checking daemon that catches adjacent, duplicate tokens (e.g., \`SI-DI\`, \`TA-TA\`), triggering an exponential property escalation modifier for maximum-security or overflow capacity states.
-
-\*   **Slot 4 (S4) - Root**
-
+\*   **Slot 3 (S3) —  "Double-Tap" Rule:** An automated checking daemon that catches adjacent, duplicate tokens (e.g., \`SI-DI\`, \`TA-TA\`), triggering an exponential property escalation modifier for maximum-security or overflow capacity states.
 \*   **Slot 5 (S5) — Enclitic Ledger Closers:** Clamps data blocks completely shut using validated word-boundary markers (e.g., \`-JA\`, \`-NE\`, \`-TA\`, \`-ME\`, \`-TO\`). 
 
 \*Note: The S5 \`-TA\` closer is fully optimized to comply with the long-form Linear A inscription discoveries published in the latest \*\*Ariadne 2025/2026 supplement series\*\* \[The Anetaki Plot Ivory Scepter\].\*
