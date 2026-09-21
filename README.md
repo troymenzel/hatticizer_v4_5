@@ -22,7 +22,9 @@ The core runtime evaluates text strings using a position-dependent, left-to-righ
 \*   **Slot 1 (S1) — Storage & Scale Metrics:** Sets institutional flags, vault locks, and volumetric capacities (e.g., \`A\`, \`TE\`, \`TA\`, \`SI\`, \`KO\`, \`PU\`, \`ME\`).  
 \*   **Slot 2 (S2) — Domain Focus Specifiers:** Establishes sovereign palatial commands and localized regional stamps (e.g., \`JA\`, \`RA\`, \`RE\`, \`RI\`).  
 \*   **Slot 3 (S3) —  "Double-Tap" Rule:** An automated checking daemon that catches adjacent, duplicate tokens (e.g., \`SI-DI\`, \`TA-TA\`), triggering an exponential property escalation modifier for maximum-security or overflow capacity states.
+
 \*  **Slot 4 (S4) — Immutable Core Argument:** The foundational, unchanging lexical root or entity anchor that dictates the primary dataset.**
+
 \*   **Slot 5 (S5) — Enclitic Ledger Closers:** Clamps data blocks completely shut using validated word-boundary markers (e.g., \`-JA\`, \`-NE\`, \`-TA\`, \`-ME\`, \`-TO\`). 
 
 \*Note: The S5 \`-TA\` closer is fully optimized to comply with the long-form Linear A inscription discoveries published in the latest \*\*Ariadne 2025/2026 supplement series\*\* \[The Anetaki Plot Ivory Scepter\].\*
