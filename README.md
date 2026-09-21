@@ -4,7 +4,7 @@
 
 \#\#   Project Overview
 
-The **Hatticizer Protocol v4.5** is a specialized historical-linguistic computation engine designed to isolate, map, and compile the **non-Indo-European (non-IE) Aegean substrate** (including the Eteocretan, Linear A, and Anatolian Hattic layers). This framework re-aligns prehistoric toponyms, ritual formulas, and physical hardware descriptions into their original, hard-coded functions.
+The **Hatticizer Protocol v4.5** is a specialized historical-linguistic computation engine designed to isolate, map, and compile the **non-Indo-European (non-IE) Aegean substrate** (including the Eteocretan, Linear A, and Anatolian Hattic layers). This framework re-aligns prehistoric toponyms, ritual formulas, and physical hardware descriptions with their original, hard-coded functions.
 
 This framework achieves a **100% reproducible execution modulus**, validating the hypothesis that Bronze Age Aegean administrative components behave as strict, modular software tokens rather than fluid literary prose.
 
