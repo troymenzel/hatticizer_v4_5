@@ -50,24 +50,6 @@ Bypasses the un-attested, back-formed patriarchal placeholder of "King Minos" to
 \*   **\`PI-SI-PA-JA\` (\`𐘂𐘈𐘂𐘌\`):** Chief Executive Officer (CEO). Restricted to a singular physical hardware token to prevent credential leaks.  
 \*   **\`PO-SE-DA-U\` (\`𐘂𐘈𐘿𐘉\`):** Secretary of State // COO of International Maritime Shipping Pipelines.
 
-\#\#\#   2\. The Distributed Outer Grid   
-Catalogs the 19 primary regional custom and routing workstations—including **\`SE-RI-PO-SO\` (Serifos)** as a heavy metal deep-storage vault, **\`JA-KU-RO\` (Zakros)** as an external input/output gateway firewall buffer cache, and **\`WI-LU-SA\` (Wilusa/Troy)** as a strategic Hellespont border router.
-
-\#\#\#   3\. Blockchain-esque Identity Access Management  
-Exposes a zero-trust multi-factor authentication network run through un-counterfeitable micromechanical assets:  
-\*   **The Controlled Mint:** Traces the **Malia Bureau of Engraving (Quartier Mu)**, where defective signature stamps were systematically defaced on the production floor.  
-\*   **The Hard Decommissioning Protocol:** Examines why high-clearance keychains (such as the **Pylos Combat Agate**) were interred in stone-built tombs upon a user's death to permanently revoke active network access.  
-\*   **The Root CA Matrix:** Identifies the **Phaistos Disc** as a hard-fired Read-Only Memory (ROM) System Codex, stored inside a physical, vertically air-gapped subterranean containment pit to eliminate hack vectors.
-
-\#\#\#   4\. Dual-Core Server Redundancy   
-Reconstructs the system's structural vulnerability via geographic redundancy, separating the **Active Live Production Server** (Knossos Validation Terminal HSM) from the **Off-Site Cold-Storage Backup Matrix** (\`PA-I-TO\`/Phaistos).
-
-\#\#\#   5\. Universal Optical Literacy & \`KU-RO\` Checksums  
-Details the icon-driven Base-10 database UI designed to scale across an illiterate workforce without text bottlenecks, guarded by an automated **\`KU-RO\` (\`𐘦𐘿\`) Checksum Validation Routine** at the foot of every document line. Contrasts this elegant system against the clunky, vertical non-mathematical weight standard imposed during the Mycenaean **"Linear B Firmware Hack."**
-
-\#\#\#   6\. High-Throughput Sharding & Volatile Memory  
-Decouples day-to-day administrative data congestion from the main Knossos cluster by executing localized data splits at **Hagia Triada**, proving the site was a high-capacity volatile cache shard running localized **\`KU-RO\`** audits feeding into global **\`PO-TO-KU-RO\`** system updates.
-
 \---
 
 \#\#   Execution & Parsing Simulation
