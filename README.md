@@ -1,6 +1,6 @@
 # HATTICIZER PROTOCOL v4.5
 
-> A Context-Free, Agglutinative Structural Matrix Shifter for Pre-Greek Aegean Topology
+> A Context-Free, Agglutinative Structural Matrix Shifter for the Pre-Greek Aegean
 
 The Hatticizer Protocol v4.5 is a specialized historical-linguistic computation engine designed to isolate, map, and compile the non-Indo-European (non-IE) Aegean substrate (including the Eteocretan, Linear A, and Anatolian Hattic layers). This framework treats prehistoric toponyms, ritual formulas, and administrative registries as functional string tokens to model Bronze Age palatial redistribution networks.
 
