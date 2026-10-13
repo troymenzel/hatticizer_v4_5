@@ -8,8 +8,7 @@ The Hatticizer Protocol v4.5 is a specialized historical-linguistic computation 
 
 ## 🛠️ System Architecture
 
-The core runtime evaluates text strings using a position-dependent, left-to-right **6-Slot Agglutination Pipeline**. 
-
+The Hatticizer Engine parses strings using a 6-slot execution pipeline indexed from S0 to S5, mapping directly to the 5-slot morphological matrix defined in the core monograph:
 ```text
 [ S0: Directive ] ──► [ S1: Metric ] ──► [ S2: Focus ] ──► [ S3: Redup ] ──► [ S4: Core ] ──► [ S5: Closer ]
 ```
